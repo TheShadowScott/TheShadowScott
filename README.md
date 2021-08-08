@@ -6,4 +6,6 @@ I currently understand at lest _some_ (but I may or may not be fluent in), the f
 3. Python
 4. R
 5. Perl
+
+
 I also love learning random information! Feel free to contact me [here](mailto://smpendland@null.net), or check out my [socials](https://scottpendland.com/links.html).
