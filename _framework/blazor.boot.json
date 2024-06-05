@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GitSite2",
   "resources": {
-    "hash": "sha256-04XZ/3ZqrNrtGog/P3GJv/46Gog2hR80B3SYapbC/M8=",
+    "hash": "sha256-qyzhKa+9D77YTcAqzbFEkSgXarDFc9k4cq1QIeSVjP0=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.704v3ph97l.js": "sha256-oXccQn9rICGrmJCU3+W/8JiZeUiNSyNwKlDJJuHaJHs="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "GitSite2.wasm": "sha256-Rcb1FW9hcL+ENLaRAmCGKzVajTGs+3plzXsIncjCpkU=",
+      "GitSite2.wasm": "sha256-+O4GDqOm4j1tgMwhpjS+/a72zw5kJWvQ9C5HurAAh2g=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-4cf7q0QIuih0cVZzT3WDtPUR/bINebQq8KQgQ81vEaw=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-AJrpIWzNwCdksDByGDWBCnoNGa9TDk+P97lxr41mDpM=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-mwwNz/IMHU35BqhBaez63Z01g22S/iPHUXLcAMuyQL4=",
